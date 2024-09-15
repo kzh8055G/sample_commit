@@ -9,7 +9,7 @@ using UnityEngine;
 using UnityEngine.Device;
 
 
-// 커밋 방법?
+// 이거 왜이래
 // https://laedit.net/2016/11/12/GitHub-commit-with-Octokit-net.html
 
 
