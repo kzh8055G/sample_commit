@@ -1,4 +1,4 @@
-using Cysharp.Threading.Tasks;
+锘縰sing Cysharp.Threading.Tasks;
 using Newtonsoft.Json;
 using Octokit;
 using System.Collections;
@@ -9,7 +9,7 @@ using UnityEngine;
 using UnityEngine.Device;
 
 
-// 目乖 规过?
+// 旎る皨 氚╇矔?
 // https://laedit.net/2016/11/12/GitHub-commit-with-Octokit-net.html
 
 
@@ -44,7 +44,7 @@ public class TestCommit : EditorWindow
 
 	private void OnGUI()
 	{
-		if (GUILayout.Button("目乖"))
+		if (GUILayout.Button("旎る皨"))
 		{
 			CommitAsync();
 		}
